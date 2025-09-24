@@ -1,5 +1,5 @@
 # repository
 ========
 - cpp-echo-server
-- another-project
+- cpp-mini-webserver
 - future-project
